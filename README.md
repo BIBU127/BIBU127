@@ -16,7 +16,7 @@ class BIBU_E_NELLO extends Profile {
     this.name = "Umberto";
     this.username = "BIBU_E_NELLO";
     this.location = "Italy";
-    this.languages = ["Nothing"];
+    this.languages = ["Batch; VBS"];
     this.discord = "bibuenello";
     this.website = "https://guns.lol/bibuenello";
   }
