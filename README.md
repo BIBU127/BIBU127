@@ -14,7 +14,7 @@
 class BIBU extends Profile {
   constructor() {
     this.name = "Umberto";
-    this.username = "BIBU_E_NELLO";
+    this.username = "Bibu";
     this.location = "Italy";
     this.languages = ["Batch; VBS"];
     this.discord = "bibu.00";
