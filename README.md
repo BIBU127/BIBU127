@@ -11,20 +11,20 @@
 </p>
 
 ```JavaScript
-class BIBU_E_NELLO extends Profile {
+class BIBU extends Profile {
   constructor() {
     this.name = "Umberto";
     this.username = "BIBU_E_NELLO";
     this.location = "Italy";
     this.languages = ["Batch; VBS"];
-    this.discord = "bibuenello";
-    this.website = "https://guns.lol/bibuenello";
+    this.discord = "bibu.00";
+    this.website = "https://guns.lol/bibu.00";
   }
   name() {
     return this.name;
   }
 }
-const me = new BIBU_E_NELLO();
+const me = new BIBU();
 ```
 
 ## My Statistics
